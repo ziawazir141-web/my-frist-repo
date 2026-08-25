@@ -1,0 +1,2 @@
+x="pakistan"
+print(x)
